@@ -22,6 +22,4 @@ int main(){
     printf("%s",strcpy("asdf"));
 
 }
-/**
-本地编辑
-**/
+
