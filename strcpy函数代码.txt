@@ -7,6 +7,7 @@ int getLength(char str[]){
         count++;
     }
     return count;
+
 }
 char* strcpy(char src[]){
     int length= getLength( src);
