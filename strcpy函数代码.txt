@@ -22,3 +22,5 @@ int main(){
     printf("%s",strcpy("asdf"));
 
 }
+/** 远程 edit
+**/
